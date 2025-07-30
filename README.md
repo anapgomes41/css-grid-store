@@ -1,5 +1,3 @@
-![CSS Grid](https://imgur.com/KfurviO.png)
-
 # Loja UseDev – Página Inicial
 
 Projeto desenvolvido como parte do curso **CSS Grid** da Alura. A proposta original foi expandida e personalizada por mim, aplicando conceitos aprendidos durante o curso e praticando a construção de layouts modernos, organizados e responsivos.
@@ -51,9 +49,7 @@ Todo o layout foi construído com foco em **estrutura, visual limpo e boa usabil
 
 ## 💻 Como visualizar
 
-1. Clone ou baixe o repositório
-2. Abra o arquivo `index.html` no seu navegador
-3. Ou utilize a extensão **Live Server** no VS Code para visualizar localmente
+https://anapgomes41.github.io/css-grid-store/
 
 ---
 
