@@ -1,4 +1,3 @@
-/* ======== DESKTOP ======== */
 .cabecalho {
   width: 100%;
   height: 120px;
@@ -24,7 +23,6 @@
   margin: 0;
 }
 
-/* === Logo === */
 .cabecalho__nav_list_item-logo {
   grid-area: logo;
 }
@@ -33,7 +31,6 @@
   height: 48px;
 }
 
-/* === Sobre nós === */
 .cabecalho__nav_list_item-sobre {
   grid-area: sobre;
 }
@@ -48,7 +45,6 @@
   gap: 6px;
 }
 
-/* === Campo de busca === */
 .cabecalho__nav_list_item-input {
   grid-area: input;
   position: relative;
@@ -80,7 +76,6 @@
   height: 20px;
 }
 
-/* === Ícones e login === */
 .cabecalho__nav_list_item-acoes {
   grid-area: acoes;
   display: flex;
